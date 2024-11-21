@@ -32,11 +32,18 @@ Follow these steps to set up and run the scraper:
      npm install
      ```
 
-4. **Start the Scraper**  
-   - To start the scraper, run the following command in the terminal:  
+4. **Start the Server**  
+   - To start the server, run the following command in the terminal:  
      ```bash
      npm start
      ```
+
+5. **Access the Scraper**  
+   - Open your browser and go to:  
+     ```
+     http://localhost:8080/scrape
+     ```
+   - Input the location you want to scrape before proceeding.
 
 ---
 
